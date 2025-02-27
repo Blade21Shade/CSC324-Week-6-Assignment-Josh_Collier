@@ -5,9 +5,14 @@ import java.util.Scanner;
 /**
  * A simple To-Do List application that allows users to:
  * 1. Add tasks
- * 2. View tasks
- * 3. Remove tasks
- * 4. Exit the program
+ * 2. Move task to category
+ * 3. View tasks
+ * 4. View tasks by category
+ * 5. View categories
+ * 6. Remove tasks
+ * 7. Make new category
+ * 8. Remove category
+ * 9. Exit the program
  *
  * Uses an ArrayList to store tasks and Scanner for user input.
  */

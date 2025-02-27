@@ -4,25 +4,31 @@
 
 ## **Overview**
 This is a simple **To-Do List application** built in **Java**. It allows users to:
-✅ **Add tasks**  
-✅ **View tasks**  
-✅ **Remove tasks**  
+✅ **Add, view, and remove tasks**  
+✅ **Add, view, and remove categories tasks**  
+✅ **Move tasks between categories and view tasks by category** 
 ✅ **Exit the application**  
 
 This project demonstrates **basic Java programming concepts**, including:
-- **ArrayLists** for storing tasks
+- **ArrayLists** for storing tasks and categories
 - **Loops** for handling user input
 - **Methods** for modular design
 - **Scanner class** for user input handling
 - **Switch statements** for menu selection
+- **HashMap** for storing tasks in categories
 
 ---
 
 ## **Features**
-- **Add Task:** Users can enter a new task to be added to the list.
-- **View Tasks:** Displays all current tasks in the list.
-- **Remove Task:** Users can delete a task by specifying its number.
-- **Exit Program:** Safely exits the application.
+- **Add tasks** Users can enter a new task to be added to the list and assign it a category
+- **Move task to category** Move a task to an already existing category
+- **View tasks** View all tasks
+- **View tasks by category** View all tasks, ordered by category
+- **View categories** View all categories
+- **Remove task** Remove a task
+- **Make new category** Make a new category
+- **Remove category** Remove a category
+- **Exit the program** Exit the program safely
 
 ---
 
